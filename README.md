@@ -1,73 +1,74 @@
-<!-- Banner Image (100% Working Alternative) -->
+<!-- HEADER & GLOWING BADGE -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kyechan99/capsule-render/master/dsvg?type=waving&color=0d1117&height=200&section=header&text=Md%20Mohebul%20Islam&fontSize=45&animation=fadeIn&fontColor=2dd4bf" width="100%" alt="Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2DD4BF&center=true&vCenter=true&width=700&height=60&lines=%E2%9D%AE%20Hello%2C%20World!%20%E2%9D%AF;+I'm+Md+Mohebul+Islam;+Full-Stack+Web+Developer;" alt="Typing SVG" />
 </p>
 
-<!-- Title & Designation -->
-<h1 align="center">Hi ⚡, I'm Mohebul Islam</h1>
-<p align="center"><strong>Full-Stack Web Developer | Software Engineer</strong></p>
+<!-- VISUAL GRID HERO LAYOUT -->
+<table align="center" width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="65%" valign="top">
+      <h3>⚡ System Architect & Core Developer</h3>
+      <p>I am a software engineer dedicated to building high-performance digital solutions and robust backend ecosystems. With a solid foundation from my B.Sc. in Computer Science & Engineering (UIU), I focus on transforming complex system logic into smooth, maintainable code architectures.</p>
+      <p>🎯 <b>Current Target:</b> Refining production-ready Stripe subscription setups, telemetry mapping, and real-time backend state engines.</p>
+      <p>🏏 <b>Beyond the Console:</b> Strategy builder on the cricket field, immersive retro PC gamer, and weekend travel mapper.</p>
+    </td>
+    <td width="35%" align="center" valign="middle">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohebul123&layout=compact&theme=tokyonight&hide_border=true&card_width=280" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
-<!-- Social Badges with Verified Link-Ready Structure -->
 <p align="center">
-  <a href="https://linkedin.com/in/mohebul123" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://facebook.com/mohebul123" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-  <a href="https://twitter.com/mohebul123" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-  <a href="mailto:mohebulhassan123@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/mohebul123" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;
+  <a href="https://facebook.com/mohebul123" target="_blank"><img src="https://img.shields.io/badge/FACEBOOK-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;
+  <a href="https://twitter.com/mohebul123" target="_blank"><img src="https://img.shields.io/badge/TWITTER-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;
+  <a href="mailto:mohebulhassan123@gmail.com"><img src="https://img.shields.io/badge/EMAIL-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-### 👨‍💻 About Me
-I am a passionate Full-Stack Web Developer dedicated to engineering high-performance digital solutions and robust backend ecosystems. With a solid foundation from my B.Sc. in Computer Science & Engineering, I focus on transforming complex system logic into smooth, maintainable code architectures.
+### 🛠️ ENGINEERING COMPETENCY MATRIX
 
-- 🚀 **Current Focus:** Deepening my expertise in scalable server management and automated testing workflows.
-- ⚡ **Fun Fact:** When I'm not writing code, you can find me analyzing sports strategies on the cricket field or exploring immersive retro PC games!
-
----
-
-### 🔭 What I'm Up To
-- 🛠️ Building and refining **FoodHub** — an enterprise multi-vendor food delivery ecosystem.
-- ⚙️ Implementing production-ready **Stripe infrastructure** and dynamic deployment pipelines on Vercel.
-- 📚 Expanding my core engineering views regarding microservices architecture and advanced database query profiling.
-
----
-
-### 🛠️ Engineering Competency Matrix (Skills)
-
-#### 🌐 Frontend Layer
-<p align="left">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</p>
-
-#### ⚙️ Backend & Engine
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Prisma_ORM-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
-</p>
-
-#### 🔒 Securities & Dev Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" alt="JWT" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-</p>
+<table width="100%">
+  <tr>
+    <th width="33.3%">🌐 FRONTEND LAYER</th>
+    <th width="33.3%">⚙️ BACKEND & ENGINE</th>
+    <th width="33.3%">🔒 DEV TOOLS & SECURITY</th>
+  </tr>
+  <tr>
+    <td valign="top" align="center">
+      <br />
+      <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=nextdotjs&logoColor=white" /><br /><br />
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /><br /><br />
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" /><br /><br />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+    </td>
+    <td valign="top" align="center">
+      <br />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" /><br /><br />
+      <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" /><br /><br />
+      <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" /><br /><br />
+      <img src="https://img.shields.io/badge/Prisma_ORM-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+    </td>
+    <td valign="top" align="center">
+      <br />
+      <img src="https://img.shields.io/badge/JWT-black?style=flat-square&logo=json-web-tokens&logoColor=white" /><br /><br />
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /><br /><br />
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /><br /><br />
+      <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📊 GitHub Analytics (High Availability Servers)
+### 📊 TELEMETRY & STATS
+
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=mohebul123&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=2dd4bf&icon_color=2dd4bf&text_color=e2e8f0" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohebul123&theme=dark&hide_border=true&background=0d1117&ring=2dd4bf&fire=2dd4bf&title=2dd4bf&stroke=e2e8f0" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohebul123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohebul123&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=mohebul123&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=2dd4bf&text_color=e2e8f0" alt="Top Languages" width="70%" />
+  <img src="https://raw.githubusercontent.com/mohebul123/mohebul123/main/github-metrics.svg" onerror="this.style.display='none'" />
 </p>
