@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" width="100%" alt="Md Mohebul Islam - Full Stack Developer Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2DD4BF&center=true&vCenter=true&width=700&height=70&lines=%E2%9D%AE+Hello%2C+World!+%E2%9D%AF;+I'm+Md+Mohebul+Islam;+Full-Stack+Web+Developer;" alt="Typing Banner" />
 </p>
 
 <h1 align="center">Md Mohebul Islam</h1>
@@ -60,6 +60,6 @@ I am a passionate software engineer dedicated to building high-performance digit
 ### 📊 ENGINE TELEMETRY & STATS
 
 <p align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api?username=mohebul123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Metrics" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohebul123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Metrics" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohebul123&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
 </p>
