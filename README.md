@@ -104,9 +104,9 @@ I love working across both frontend and backend development and continuously imp
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
   <a href="YOUR_LINKEDIN_URL">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="www.linkedin.com/in/md-mohebul-islam-b45a25423" />
   </a>
-  <a href="mailto:mohebulhassan123@gmail.com">
+  <a href="mohebulhassan123@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
@@ -131,48 +131,6 @@ I love working across both frontend and backend development and continuously imp
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohebul123&theme=tokyo-night" />
 </p>
-
----
-
-# 📌 Featured Projects
-
-## 🍔 FoodHub
-
-A modern full-stack food ordering platform where customers can browse meals, place orders and manage their activities through a clean dashboard.
-
-### Tech Stack
-
-Next.js • TypeScript • Express.js • Prisma • PostgreSQL
-
-### Features
-
-- User Authentication
-- Role Based Dashboard
-- Meal Management
-- Order Management
-- Responsive Design
-
-🔗 Live Demo: Add Your Live Link
-
----
-
-## 🌱 EcoSpark Hub
-
-An Innovation Management Platform where users can share ideas, vote for projects and collaborate through discussions.
-
-### Tech Stack
-
-Node.js • Express.js • Prisma • PostgreSQL • JWT
-
-### Features
-
-- Authentication & Authorization
-- Project Voting
-- Nested Comments
-- User Dashboard
-- Admin Controls
-
-🔗 Live Demo: Add Your Live Link
 
 ---
 
