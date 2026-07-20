@@ -4,7 +4,10 @@
 
 <h1 align="center">Hi 👋, I'm MD Mohebul Islam</h1>
 
-<h3 align="center">Full Stack Developer | MERN Stack Enthusiast | Software Engineer Aspirant</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=800&lines=🎓+CSE+Graduate;💻+Passionate+Full+Stack+Web+Developer;⚡+MERN+Stack+Enthusiast;🚀+Software+Engineer+in+Progress;🌱+Exploring+Next.js+and+TypeScript" />
+</p>
+<h3 align="center">Full Stack Developer | JavaScript Enthusiast | Software Engineer Aspirant</h3>
 
 <p align="center">
   Passionate about building modern, scalable and user-friendly web applications.
