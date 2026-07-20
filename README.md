@@ -176,25 +176,6 @@ Node.js • Express.js • Prisma • PostgreSQL • JWT
 
 ---
 
-## ✈️ Pack & Go
-
-A tourism and travel management platform designed to help users discover and explore travel destinations.
-
-### Tech Stack
-
-React.js • Node.js • Express.js • MongoDB
-
-### Features
-
-- Tour Packages
-- Destination Management
-- User Authentication
-- Responsive Design
-
-🔗 Live Demo: Add Your Live Link
-
----
-
 # 💡 Favorite Quote
 
 > "Code. Build. Innovate."
