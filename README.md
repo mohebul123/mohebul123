@@ -1,76 +1,206 @@
-<!-- PREMIUM DARK THEME BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/canvas?type=waving&color=0d1117&height=220&section=header&text=Md%20Mohebul%20Islam&fontSize=46&fontColor=14b8a6&animation=twinkling&desc=Full-Stack%20Software%20Engineer%20%7C%20CSE%20Graduate&descSize=18&descAlignY=62&descAlign=center" width="100%" alt="Mohebul Banner" />
+  <img src="https://raw.githubusercontent.com/mohebul123/mohebul123/main/githubBanner.jpg" alt="Mohebul Islam Banner" width="100%">
 </p>
 
-## 🌌 About Me
+<h1 align="center">Hi 👋, I'm MD Mohebul Islam</h1>
 
-Hi there! 👋 I am **Md Mohebul Islam**, a passionate **Full-Stack Web Developer** and Computer Science & Engineering (CSE) graduate. My engineering focus revolves around turning complex system requirements into clean, type-safe, and scalable runtime environments.
-
-- 🎓 **B.Sc. in Computer Science & Engineering** from United International University (UIU).
-- ⚙️ Deeply aligned with the **Software Engineering Lifecycle (SDLC)**—guiding applications from rigorous documentation to modular deployment.
-- 🔒 Committed to building robust database architectures, solid authorization workflows, and responsive user experiences.
-
----
-
-## ⚡ Current Tracks & Activities
-
-- 🔭 I’m currently engineering **FoodHub**, an enterprise-level multi-vendor food delivery ecosystem.
-- 🚀 Configuring active production paths on **Vercel** and wiring secure backend endpoints via **Stripe**.
-- 💡 Diving into advanced relational query optimizations, token-based identity middleware, and automated QA testing frameworks.
-
----
-
-## 🛠️ Core Engineering Toolkit
-
-### 💻 System Development & Databases
-<p align="left">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=14b8a6" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-0f172a?style=for-the-badge&logo=tailwind-css&logoColor=38bdf8" alt="Tailwind" />
-  <img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=node.js&logoColor=22c55e" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=336791" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Prisma-123A50?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
-</p>
-
-### 📐 Software Architecture & Methodologies
-<p align="left">
-  <img src="https://img.shields.io/badge/Agile_%26_Scrum-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Agile" />
-  <img src="https://img.shields.io/badge/Requirements_Engineering-1e293b?style=for-the-badge&logo=readme&logoColor=14b8a6" alt="Requirements" />
-  <img src="https://img.shields.io/badge/Security_CIA_Triad-991b1b?style=for-the-badge&logo=auth0&logoColor=white" alt="Security" />
-  <img src="https://img.shields.io/badge/QA_Black_%26_White_Box-065f46?style=for-the-badge" alt="QA Testing" />
-</p>
-
----
-
-## 📊 Git Telemetry & Metrics
+<h3 align="center">Full Stack Developer | MERN Stack Enthusiast | Software Engineer Aspirant</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohebul123&show_icons=true&theme=dark&bg_color=0d1117&title_color=14b8a6&text_color=9ca3af&icon_color=14b8a6" width="48%" alt="Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohebul123&theme=dark&background=0d1117&title=14b8a6&ring=14b8a6&fire=e11d48&currStreakNum=9ca3af" width="48%" alt="Streak" />
+  Passionate about building modern, scalable and user-friendly web applications.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohebul123&layout=compact&theme=dark&bg_color=0d1117&title_color=14b8a6&text_color=9ca3af" width="60%" alt="Top Languages" />
+  <a href="mailto:mohebulhassan123@gmail.com">
+    <img src="https://img.shields.io/badge/Email-mohebulhassan123%40gmail.com-red?style=for-the-badge&logo=gmail">
+  </a>
+  <a href="https://my-portfolio-tau-eosin-51.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=vercel">
+  </a>
+  <a href="https://github.com/mohebul123">
+    <img src="https://img.shields.io/badge/GitHub-mohebul123-black?style=for-the-badge&logo=github">
+  </a>
 </p>
 
 ---
 
-## 🌐 Telemetry Handshake (Connect)
+# 🚀 About Me
 
-<p align="left">
-  <a href="https://linkedin.com/in/mohebul123" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+I'm a passionate Full Stack Developer who enjoys building real-world web applications and learning modern technologies.
+
+I love working across both frontend and backend development and continuously improving my problem-solving skills through practical projects.
+
+📍 Location: Bangladesh
+
+🎓 CSE Graduate
+
+💻 Full Stack Web Developer
+
+🌱 Currently learning advanced Next.js, TypeScript, PostgreSQL and Software Engineering concepts.
+
+⚡ Goal: Become a professional Software Engineer and build impactful software products.
+
+---
+
+# 🌱 Current Activities
+
+- 🚀 Exploring advanced features of Next.js
+- 🔥 Building full-stack applications using MERN Stack
+- 📚 Learning scalable backend architecture
+- 🛠️ Improving PostgreSQL & Prisma skills
+- 🌍 Working on tourism and management-based applications
+- 💡 Practicing clean code and software engineering principles
+
+---
+
+# 💻 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,postgres,prisma,firebase,tailwind,git,github,vscode" />
+</p>
+
+---
+
+# 🛠 Technologies
+
+### Frontend
+
+- React.js
+- Next.js
+- Tailwind CSS
+- JavaScript
+- TypeScript
+
+### Backend
+
+- Node.js
+- Express.js
+
+### Database
+
+- PostgreSQL
+- MongoDB
+
+### ORM
+
+- Prisma
+
+### Authentication
+
+- Firebase Authentication
+- JWT
+
+### Version Control
+
+- Git
+- GitHub
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/mohebul123">
+    <img src="https://skillicons.dev/icons?i=github" />
   </a>
-  <a href="mailto:mohebulhassan123@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://x.com/mohebul75" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  <a href="mailto:mohebulhassan123@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-  <a href="https://www.facebook.com/md.mohebullah.7330" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohebul123&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohebul123&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mohebul123&theme=tokyonight" />
+</p>
+
+---
+
+# 🏆 GitHub Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohebul123&theme=tokyo-night" />
+</p>
+
+---
+
+# 📌 Featured Projects
+
+## 🍔 FoodHub
+
+A modern full-stack food ordering platform where customers can browse meals, place orders and manage their activities through a clean dashboard.
+
+### Tech Stack
+
+Next.js • TypeScript • Express.js • Prisma • PostgreSQL
+
+### Features
+
+- User Authentication
+- Role Based Dashboard
+- Meal Management
+- Order Management
+- Responsive Design
+
+🔗 Live Demo: Add Your Live Link
+
+---
+
+## 🌱 EcoSpark Hub
+
+An Innovation Management Platform where users can share ideas, vote for projects and collaborate through discussions.
+
+### Tech Stack
+
+Node.js • Express.js • Prisma • PostgreSQL • JWT
+
+### Features
+
+- Authentication & Authorization
+- Project Voting
+- Nested Comments
+- User Dashboard
+- Admin Controls
+
+🔗 Live Demo: Add Your Live Link
+
+---
+
+## ✈️ Pack & Go
+
+A tourism and travel management platform designed to help users discover and explore travel destinations.
+
+### Tech Stack
+
+React.js • Node.js • Express.js • MongoDB
+
+### Features
+
+- Tour Packages
+- Destination Management
+- User Authentication
+- Responsive Design
+
+🔗 Live Demo: Add Your Live Link
+
+---
+
+# 💡 Favorite Quote
+
+> "Code. Build. Innovate."
+
+---
+
+<p align="center">
+  Thanks for visiting my profile ❤️
 </p>
