@@ -103,8 +103,8 @@ I love working across both frontend and backend development and continuously imp
   <a href="https://github.com/mohebul123">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="www.linkedin.com/in/md-mohebul-islam-b45a25423" />
+  <a href="www.linkedin.com/in/md-mohebul-islam-b45a25423L">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="mohebulhassan123@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
